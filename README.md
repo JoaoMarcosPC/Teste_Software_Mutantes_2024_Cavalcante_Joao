@@ -14,9 +14,9 @@
 ---
 
 ### Descrições
-- **./codigo** $\rarr$ onde ficam os executáveis
-- **./documentos** $\rarr$ documentos relevantes à atividade
-- **./img** $\rarr$ imagens utilizadas neste documento
+- **./codigo** -> onde ficam os executáveis
+- **./documentos** -> documentos relevantes à atividade
+- **./img** -> imagens utilizadas neste documento
 ---
 
 ### Instalação e Utilização
